@@ -3,6 +3,7 @@
     <test name="API automation using rest-assured">
         <classes>
             <class name="tests.APITest"/>
+            <class name="tests.APISchemaVerificationTest"/>
         </classes>
     </test>
 </suite>
